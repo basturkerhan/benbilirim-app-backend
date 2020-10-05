@@ -2,7 +2,7 @@
 <br>
 I've been working on React for a while. The other day I came across a format on TV. In this format, a football position stopped at the critical moment and participants were trying to guess whether there was a goal or not. I thought of making an application adapted from this format using MERN stack (Mongo,Express,React,Nodejs). 
 
-**In this repo, you see the back-end of the application. If you want to see front-end, See:**
+**In this repo, you see the back-end of the application. If you want to see front-end, See: https://github.com/basturkerhan/benbilirim-app-frontend**
 <br>
 **See Demo: https://benbilirim-frontend.vercel.app/**
 <br>
